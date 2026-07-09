@@ -1,9 +1,9 @@
-Student Performance Factors — Data Analysis
+#Student Performance Factors — Data Analysis
 
 A data analysis project exploring the Student Performance Factors dataset using Python (Pandas & NumPy) to understand what drives exam performance and improvement.
 
-Dataset
-StudentPerformanceFactors.csv — 6,607 student records with 20 columns, including:
+Dataset from Kaggle dataset
+StudentPerformanceFactors.csv — 6,607 student records with 20 columns
 
 Tools & Libraries:
 Python
