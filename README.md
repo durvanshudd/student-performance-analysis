@@ -1,4 +1,5 @@
-#Student Performance Factors — Data Analysis
+
+Student Performance Factors — Data Analysis
 
 A data analysis project exploring the Student Performance Factors dataset using Python (Pandas & NumPy) to understand what drives exam performance and improvement.
 
@@ -32,13 +33,13 @@ Peer influence
 
 **Overall performance**
 - 65.6% of students (4,332 of 6,607) showed an *Improvement Decline* from their previous exam, 32.4% improved, and only 2% stayed the same.
+-
+- <img width="640" height="480" alt="Improvment_Status" src="https://github.com/user-attachments/assets/b76370b5-09bb-422a-9379-53271765dc6a" />
 
-**Factors with a MAJOR on Exam Score**
 - **Peer Influence**: students with positive peer influence average 67.62, vs. 67.20 (neutral) and 66.56 (negative) — a small but consistent ~1-point gap.
-- **Teacher Quality**: students with high-quality teachers average 67.68 vs. 66.75 for low-quality — also a small but consistent ~1-point gap.
 
-**Factors with little to no effect**
-- **Internet Access**: improvement-decline rate is nearly identical with internet (65.5%) vs. without (66.5%), and average sleep hours barely differ (7.03 vs. 6.97) — internet access doesn't meaningfully affect either outcome in this dataset.
-- **Learning Disabilities vs. Motivation Level**: near-identical distribution regardless of learning disability status .
-- **Family Income vs. Access to Resources**: surprisingly flat — Low, Medium, and High income students report similar resource access across all levels
-- **Teacher Quality vs. School Type**: no link 70% of students are in public school regardless of teacher-quality rating.
+<img width="640" height="480" alt="Peer Influence vs Average Exam Score" src="https://github.com/user-attachments/assets/be10aaec-0935-49fe-8797-75ea0a740770" />
+
+**Sleep Hours** : the Exam Scorce of students are quite simliar for all sleeping hours
+
+<img width="640" height="480" alt="Sleep Hours vs Exam Score" src="https://github.com/user-attachments/assets/1affb6b1-4802-443b-862f-d263cd662a7a" />
